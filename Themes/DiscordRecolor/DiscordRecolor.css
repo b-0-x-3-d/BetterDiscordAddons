@@ -2,7 +2,7 @@
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
 
 :root {
-	--font:							"gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	--font:							"Open Sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	
 	--mentioncolor: 				166,166,26;
 	--successcolor: 				55,198,255;
