@@ -2,7 +2,7 @@
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
 
 .scrollableContainer-15eg7h {
-    border-radius: 0px;
+    border-radius: 50px;
 }
 
 :root {
@@ -20,7 +20,7 @@
 	--textdarker: 					114,118,125;
 	--textdarkest: 					79,84,92;
 	
-	--backgroundaccent: 			124,78,144;
+	--backgroundaccent: 			14,8,24;
 	--backgroundprimary: 			54,37,73;
 	--backgroundsecondary: 			47,29,64;
 	--backgroundsecondaryalt: 		41,23,57;
