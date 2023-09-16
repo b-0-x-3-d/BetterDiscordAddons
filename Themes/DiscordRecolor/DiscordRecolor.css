@@ -16,12 +16,12 @@
 	--textdarker: 					114,118,125;
 	--textdarkest: 					79,84,92;
 	
-	--backgroundaccent: 			64,48,95;
-	--backgroundprimary: 			54,37,83;
-	--backgroundsecondary: 			47,29,74;
-	--backgroundsecondaryalt: 		41,23,67;
-	--backgroundtertiary: 			32,14,57;
-	--backgroundfloating: 			24,5,48;
+	--backgroundaccent: 			24,88,85;
+	--backgroundprimary: 			54,37,73;
+	--backgroundsecondary: 			47,29,64;
+	--backgroundsecondaryalt: 		41,23,57;
+	--backgroundtertiary: 			32,14,47;
+	--backgroundfloating: 			24,5,38;
 }
 
 .theme-light:not(.userProfileOuterThemed-3EfHmv),
