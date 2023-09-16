@@ -7,7 +7,7 @@
 	--mentioncolor: 				26,166,255;
 	--successcolor: 				55,198,255;
 	--warningcolor: 				250,166,26;
-	--dangercolor: 					237,66,69;
+	--dangercolor: 					196,32,128;
 	
 	--textbrightest: 				255,255,255;
 	--textbrighter: 				220,221,222;
@@ -16,12 +16,12 @@
 	--textdarker: 					114,118,125;
 	--textdarkest: 					79,84,92;
 	
-	--backgroundaccent: 			64,48,75;
-	--backgroundprimary: 			54,37,63;
-	--backgroundsecondary: 			47,29,54;
-	--backgroundsecondaryalt: 		41,23,47;
-	--backgroundtertiary: 			32,14,37;
-	--backgroundfloating: 			24,5,28;
+	--backgroundaccent: 			64,48,95;
+	--backgroundprimary: 			54,37,83;
+	--backgroundsecondary: 			47,29,74;
+	--backgroundsecondaryalt: 		41,23,67;
+	--backgroundtertiary: 			32,14,57;
+	--backgroundfloating: 			24,5,48;
 }
 
 .theme-light:not(.userProfileOuterThemed-3EfHmv),
